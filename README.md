@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pwntester)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **pwntester/pwntester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
